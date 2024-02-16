@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1, 
+        "flyer": "img/LENTE-01-flyer.png",
+        "title": "RAY-BAN AVIATOR 3025L", 
+        "OFERTA": "OFERTA", 
+        "price": 120000, 
+        "stock": 100, 
+        "spec": "Clásicos y atemporales, con monturas de metal delgadas y cristales tintados en colores variados."
+    },
+    {
+        "id": 2, 
+        "flyer": "img/LENTE-02-flyer.png",
+        "title": "RAY-BAN WAYFARE 2140 ", 
+        "OFERTA": "OFERTA", 
+        "price": 115000, 
+        "stock": 100, 
+        "spec": "Diseñados para deportistas, con monturas de O-Matter resistente y lentes Prizm para mejorar la claridad visual."
+    },
+    {
+        "id": 3, 
+        "flyer": "img/LENTE-03-flyer.png",
+        "title": "RAY-BAN WAYFARER 902", 
+        "OFERTA": "OFERTA", 
+        "price": 90000, 
+        "stock": 100, 
+        "spec": "Elegantes y sofisticados, con monturas de acetato y detalles dorados, perfectos para un estilo de vida de lujo."
+    },
+    {
+        "id": 4, 
+        "flyer": "img/LENTE-04-flyer.png",
+        "title": "RUSTY XOLD MBLK", 
+        "OFERTA": "OFERTA", 
+        "price": 75000, 
+        "stock": 100, 
+        "spec": "Ideales para actividades al aire libre, con lentes polarizados que reducen el deslumbramiento y protegen contra los rayos UV"
+    },
+    {
+        "id": 5, 
+        "flyer": "img/LENTE-05-flyer.png",
+        "title": "RAY-BAN ROUND 90", 
+        "OFERTA": "OFERTA", 
+        "price": 180000, 
+        "stock": 100, 
+        "spec": "Glamorosos y llamativos, con monturas decoradas con el icónico Medusa de Versace y lentes degradados"
+    },
+    {
+        "id": 6, 
+        "flyer": "img/LENTE-06-flyer.png",
+        "title": "RAY-BAN NEW WAYFARER", 
+        "OFERTA": "OFERTA", 
+        "price": 128000, 
+        "stock": 500, 
+        "spec": "Clásicos y refinados, con monturas de acetato y el emblemático diseño de flecha en las patillas"
+    },
+    {
+        "id": 7, 
+        "flyer": "img/LENTE-07-flyer.png",
+        "title": "RAY-BAN WAYFARER 901", 
+        "OFERTA": "OFERTA", 
+        "price": 182000, 
+        "stock": 4000, 
+        "spec": "Especialmente diseñados para la pesca, con lentes polarizados de alta calidad que reducen el reflejo del agua"
+    },
+    {
+        "id": 8, 
+        "flyer": "img/LENTE-08-flyer.png",
+        "title": "VULK SEHUN CRY", 
+        "OFERTA": "OFERTA", 
+        "price": 110000, 
+        "stock": 2000, 
+        "spec": "Modernos y deportivos, con monturas de metal y detalles rojos distintivos en las patillas"
+    }
+]
+
+
+
+
